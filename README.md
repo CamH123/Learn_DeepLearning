@@ -1,2 +1,1 @@
-# Learn_DeepLearning
-This repository will hold all code and projects created to self-study the essentials of Deep Learning. Content is derived and built off of UC Berkley's online recordings of cs182.
+While self studying UC Berkley's CS182 course in deep learning, I decided to build a couple projects and implement the theory to gain a better understanding of the code. This project covers the first couple of lectures by implementing a Softmax regression by scratch. All functions, from gradient descent to negative likelihood loss calculations were done by scratch and inspired by lecture slides. To test the algorithim, scikit learn's iris dataset was utilized.
